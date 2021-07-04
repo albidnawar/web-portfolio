@@ -28,6 +28,7 @@ p{
 .half-width img{
     width: 80%;
     padding-left: 20%;
+    padding-top: 5%;
 }
 .top-banner{
     background-image: url(images/top-banner.png);
@@ -35,6 +36,7 @@ p{
 }
 section{
     height: 500px;
+    padding-bottom: 80px;
 }
 .hire-button{
     text-decoration: none;
@@ -44,4 +46,21 @@ section{
     font-weight: bold;
     color: white;
     font-family: 'Oswald', sans-serif;
+}
+.diff-half-width{
+    width:40% ;
+    float: left;
+    margin-left: 5%;
+}
+.diff2-half-width{
+    width:40% ;
+    float: left;
+    margin-left: 5%;
+    padding-left: 8%;
+}
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-bottom: 20%;
 }
